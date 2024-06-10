@@ -15,7 +15,5 @@
     <p>
         このページは <?= $os ?> (<?= $arch ?>) で動作しています。
     </p>
-    <p>
-        <a href="test.php">test.php(DB接続テスト)</a>
 </body>
 </html>

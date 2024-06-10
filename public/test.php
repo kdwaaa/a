@@ -41,6 +41,7 @@
         foreach ($result as $row) {
             echo "<li>{$row[0]}</li>";
         }
+        echo "</ul>";
     }
     # 接続を閉じる
     $handle = null;
